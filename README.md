@@ -3,15 +3,15 @@ Secured home Automation with Voice Recognition Using Python and Vosk
 
 #Instruction:-
 
-download the vosk model into the vosk folder. You can find the link inside the vosk folder.
+1) Download the vosk model into the vosk folder. You can find the link inside the vosk folder.
 
-Install Required Packages by executing the following code
+2) Install Required Packages by executing the following code
 
-pip install -r requirements.txt
+3) Execute pip install -r requirements.txt
 
-then execute the new2 python file.
+4) Then execute the new2 python file.
 
-if you are on a raspberry pi you can un-comment the GPIO part.
+5) If you are on a raspberry pi you can un-comment the GPIO part.
 
 
 
