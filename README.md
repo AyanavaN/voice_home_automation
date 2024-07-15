@@ -9,7 +9,7 @@ Secured home Automation with Voice Recognition Using Python and Vosk
 
 3) Execute pip install -r requirements.txt
 
-4) Then execute the new2 python file.
+4) Then execute the 'new2' python file.
 
 5) If you are on a raspberry pi you can un-comment the GPIO part.
 
