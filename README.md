@@ -9,7 +9,7 @@ Install Required Packages by executing the following code
 
 pip install -r requirements.txt
 
-then execute the new2 pythen file.
+then execute the new2 python file.
 
 if you are on a raspberry pi you can un-comment the GPIO part.
 
