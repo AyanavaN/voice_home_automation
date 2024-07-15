@@ -11,7 +11,7 @@ Secured home Automation with Voice Recognition Using Python and Vosk
 
 4) Then execute the 'new2' python file.
 
-5) If you are on a raspberry pi you can un-comment the GPIO part.
+5) If you are using a Raspberry Pi, uncomment the GPIO parts in the code.
 
 
 
