@@ -62,7 +62,9 @@ Training Phase: Users provide voice samples which are processed to extract Mel F
 Testing Phase: When a user issues a voice command, the system captures the audio, extracts MFCC features, and compares them against the trained GMM models to authenticate the user.
 Command Execution: Once authenticated, the system uses Vosk to convert the voice command into text and executes the corresponding action (e.g., turning on/off a light).
 
+
 Usage:-
+
 Training the System: Users need to train the system by providing voice samples. This process involves recording a few samples of their voice, which are then used to create a unique voice model for each user.
 Issuing Commands: To control an appliance, the user simply speaks a command (e.g., "Turn on the light"). The system recognizes the command, authenticates the user, and executes the action.
 Feedback: The system provides real-time feedback, indicating whether the command was successfully executed or if there was an error (e.g., unrecognized command or unauthorized user).
