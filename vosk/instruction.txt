@@ -1,1 +1,2 @@
-Paste the vosk model here
+Paste the vosk model here 
+link- https://alphacephei.com/vosk/models/vosk-model-en-in-0.5.zip

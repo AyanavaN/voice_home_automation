@@ -1,0 +1,6 @@
+pyaudio
+numpy
+scikit-learn
+scipy
+python_speech_features
+vosk
